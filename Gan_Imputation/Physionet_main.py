@@ -65,7 +65,8 @@ def main():
             args.isSlicing=True
 
     #make the max step length of two datasett the same
-    epochs=[30]
+    #epochs=[30]
+    epochs= [args.epoch]
     g_loss_lambdas=[0.15]
     beta1s=[0.5]
     for beta1 in beta1s:
