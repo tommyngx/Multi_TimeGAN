@@ -1,6 +1,6 @@
 # Multi_TimeGAN
 Multivariate Time Series Imputation with Generative Adversarial Networks
-><img src="https://github.com/Tommy-Ngx/Tommy_Bio/blob/master/images/partner-2.png" alt="Pic" title="Title" width=200 />
+><img src="https://github.com/Tommy-Ngx/Tommy_Bio/blob/master/images/loc.png" alt="Pic" title="Title" width=20 />
 >This is original channel is : 
 https://github.com/Luoyonghong/Multivariate-Time-Series-Imputation-with-Generative-Adversarial-Networks 
 >
