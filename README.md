@@ -1,5 +1,8 @@
 # Multi_TimeGAN
 Multivariate Time Series Imputation with Generative Adversarial Networks
+This is original channel is : https://github.com/Luoyonghong/Multivariate-Time-Series-Imputation-with-Generative-Adversarial-Networks
+Special thank to Yonghong Luo for his great ideas and contribution. 
+
 # Fine-tuning version from original Author
  author: Yonghong Luo, Xiangrui Cai, Ying Zhang, Jun Xu and Xiaojie Yuan
  
