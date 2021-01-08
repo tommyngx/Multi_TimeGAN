@@ -24,7 +24,7 @@ if __name__ == '__main__':
     parser.add_argument('--model-path', type=str, default=None)
     parser.add_argument('--result-path', type=str, default=None)
     parser.add_argument('--lr', type=float, default=0.01)
-    #parser.add_argument('--epoch', type=int, default=20)
+    parser.add_argument('--epoch', type=int, default=30)
     parser.add_argument('--n-inputs', type=int, default=41)
     parser.add_argument('--n-hidden-units', type=int, default=64)
     parser.add_argument('--n-classes', type=int, default=2)
@@ -78,7 +78,8 @@ if __name__ == '__main__':
         #lrs = [0.0075,0.0085]
         for lr in lrs:
             args.lr=lr
-            epoch=30
+            epoch= args.epoch
+            #epoch=30
             args.epoch=epoch
             print("epoch: %2d"%(epoch))
             tf.reset_default_graph()
